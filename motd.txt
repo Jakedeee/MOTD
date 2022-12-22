@@ -1,6 +1,5 @@
 UPDATES--
 Added MOTD Board
-New thing coming in forest i wonder what it is?
 Main Menu
 Better mirror in forest 
 Added Snap turn
@@ -10,6 +9,7 @@ Added Shop
 Added Snow
 Added new spawn Stump
 Made it kinda darker for Christmas
+Hangout room Secret ;)
 BUGS--
 Kick Hammer will make you FLY
 Main Menu looks doodoo cuz night time :(
