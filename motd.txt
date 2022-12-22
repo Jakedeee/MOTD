@@ -10,6 +10,7 @@ Added Snow
 Added new spawn Stump
 Made it kinda darker for Christmas
 Hangout room Secret ;)
+Vibrations
 BUGS--
 Kick Hammer will make you FLY
 Main Menu looks doodoo cuz night time :(
