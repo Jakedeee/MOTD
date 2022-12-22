@@ -1,3 +1,4 @@
+UPDATES--
 Added MOTD Board
 New thing coming in forest i wonder what it is?
 Main Menu
@@ -6,3 +7,12 @@ Added Snap turn
 Hitsounds
 Christmas Stuff
 Added Shop
+Added Snow
+Added new spawn Stump
+Made it kinda darker for Christmas
+BUGS--
+Kick Hammer will make you FLY
+Main Menu looks doodoo cuz night time :(
+Arms are really weird
+Hands are literally dying 
+Kinda laggy
