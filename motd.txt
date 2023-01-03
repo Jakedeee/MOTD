@@ -1,19 +1,4 @@
-UPDATES--
-Added MOTD Board
-Main Menu
-Better mirror in forest 
-Added Snap turn
-Hitsounds
-Christmas Stuff
-Added Shop
-Added Snow
-Added new spawn Stump
-Made it kinda darker for Christmas
-Hangout room Secret ;)
-Vibrations
-BUGS--
-Kick Hammer will make you FLY
-Main Menu looks doodoo cuz night time :(
-Arms are really weird
-Hands are literally dying 
-Kinda laggy
+NEW YEARS 2023 UPDATE!
+New FlashLight
+New Camera
+New Sparkler
